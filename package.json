@@ -1,0 +1,23 @@
+{
+  "name": "jest-app-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stringCheck.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilevahviraki/jest-app-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camilevahviraki/jest-app-test/issues"
+  },
+  "homepage": "https://github.com/camilevahviraki/jest-app-test#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
